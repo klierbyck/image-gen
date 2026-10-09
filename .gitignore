@@ -2,6 +2,7 @@
 .env.*
 !.env.example
 .DS_Store
+reports/**
 
 generated_images/
 
