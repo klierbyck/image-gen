@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+.DS_Store
+
+generated_images/
+
+__pycache__/
+*.py[cod]

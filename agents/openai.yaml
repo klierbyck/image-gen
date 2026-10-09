@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片生成与编辑"
+  short_description: "通过可配置的图片 API 完成文生图、参考图生图与持续编辑"
+  default_prompt: "使用 $image-gen 根据我的要求生成或编辑图片，首次默认选择 OpenAI Images 协议；只有明确指定时选择 Gemini，已有 session 延续原 API。"
